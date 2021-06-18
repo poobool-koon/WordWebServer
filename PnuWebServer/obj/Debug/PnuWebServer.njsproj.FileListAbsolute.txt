@@ -1,0 +1,3 @@
+C:\Users\Administrator\source\repos\PnuWebServer\PnuWebServer\obj\Debug\PnuWebServer.njsprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PnuWebServer\PnuWebServer\obj\Debug\PnuWebServer.njsproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PnuWebServer\PnuWebServer\bin\Microsoft.NodejsTools.WebRole.dll
